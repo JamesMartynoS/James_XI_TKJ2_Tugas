@@ -1,2 +1,2 @@
-# James_XI_TKJ2_Tugas
+# james_xi_tkj_2
 Untuk menyimpan tugas
